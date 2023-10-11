@@ -5,6 +5,10 @@
     "repository": "https://github.com/anireact/typescript-config",
     "author": "Yuri Zemskov <miyaokamarina@gmail.com> (https://twitter.com/miyaokamarina)",
     "license": "MIT",
+    "keywords": [
+        "typescript",
+        "typescript-config"
+    ],
     "packageManager": "yarn@3.6.4",
     "type": "module",
     "main": "./tsconfig.json",
