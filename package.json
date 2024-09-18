@@ -3,9 +3,10 @@
     "version": "1.0.0",
     "description": "Base TypeScript config for composite projects.",
     "repository": "https://github.com/anireact/typescript-config",
-    "author": "Yuri Zemskov <miyaokamarina@gmail.com> (https://twitter.com/miyaokamarina)",
+    "author": "Yuri Zemskov <miyaokamarina@gmail.com> (https://t.me/miyaokamarina)",
     "license": "MIT",
     "keywords": [
+        "tsconfig",
         "typescript",
         "typescript-config"
     ],
