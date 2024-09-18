@@ -26,4 +26,4 @@ https://t.me/miyaokamarina.
 
 ## License
 
-MIT © 2023 Yuri Zemskov
+MIT © 2024 Yuri Zemskov
