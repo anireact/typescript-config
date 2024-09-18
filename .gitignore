@@ -1,9 +1,6 @@
 /.vscode/
 
-/.yarn/*
-!/.yarn/plugins/
-!/.yarn/releases/
-
+/.yarn/
 /node_modules/
 
 /out/
