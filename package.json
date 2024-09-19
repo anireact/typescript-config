@@ -1,6 +1,6 @@
 {
     "name": "@anireact/typescript-config",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Base TypeScript config for composite projects.",
     "repository": "https://github.com/anireact/typescript-config",
     "author": "Yuri Zemskov <miyaokamarina@gmail.com> (https://t.me/miyaokamarina)",
