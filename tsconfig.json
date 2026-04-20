@@ -19,7 +19,6 @@
         "disableSourceOfProjectReferenceRedirect": false,
         "disableSizeLimit": false,
         "target": "esnext",
-        "downlevelIteration": true,
         "useDefineForClassFields": true,
         "preserveConstEnums": false,
         "preserveValueImports": false,
@@ -44,12 +43,10 @@
         "resolvePackageJsonImports": true,
         "allowArbitraryExtensions": true,
         "customConditions": [],
-        "allowImportingTsExtensions": false,
+        "allowImportingTsExtensions": true,
         "verbatimModuleSyntax": false,
         "moduleDetection": "force",
         "moduleSuffixes": [""],
-        "esModuleInterop": true,
-        "allowSyntheticDefaultImports": true,
         "importsNotUsedAsValues": "remove",
         "resolveJsonModule": true,
         "noUncheckedSideEffectImports": true,
@@ -74,7 +71,7 @@
         "useUnknownInCatchVariables": true,
         "keyofStringsOnly": false,
         "noStrictGenericChecks": false,
-        "noFallthroughCasesInSwitch": true,
+        "noFallthroughCasesInSwitch": false,
         "noImplicitOverride": true,
         "noImplicitReturns": true,
         "noPropertyAccessFromIndexSignature": true,
@@ -91,6 +88,8 @@
         "traceResolution": false,
         "explainFiles": false,
         "listFiles": false,
-        "listEmittedFiles": false
+        "listEmittedFiles": false,
+        "rewriteRelativeImportExtensions": true,
+        "stableTypeOrdering": true
     }
 }
